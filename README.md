@@ -1,7 +1,7 @@
 # Projeto Exemplo
 
 ## Introdução
-Projeto exemplo em Microsoft ASP NET MVC, .net core 8 e ms-sql
+Projeto exemplo em Microsoft ASP NET MVC, .net core 8 e ms-sql com docker e docker compose
 
 Selecionar ao lado esquerdo o botão Create New Project.
 
